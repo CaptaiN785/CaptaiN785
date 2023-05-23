@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain785" alt="captain785" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Flask**
-
 - 💬 Ask me about **Java, Data Science**
 
 - 📫 How to reach me **thakurmukeshkumar785@gmail.com**
