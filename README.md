@@ -1,5 +1,3 @@
-<img src="https://github.com/CaptaiN785/CaptaiN785/blob/main/github.jpg" alt="banner" width="100%" align="center">
-
 <h1 align="center">Hi 👋, I'm Mukesh Kumar Thakur</h1>
 <h3 align="center">A passionate software developer and data science enthusiast from India</h3>
 
